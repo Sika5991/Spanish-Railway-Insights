@@ -9,6 +9,10 @@ The main objectives of this project are:
 2. To perform statistical tests to uncover significant differences between groups.
 3. To visualize the data to gain insights and make informed conclusions.
 
+## Source
+
+The dataset can be found on kaggle using the following link: https://www.kaggle.com/datasets/thegurusteam/spanish-high-speed-rail-system-ticket-pricing/data
+
 ## Installation
 
 To run this project, you need to have the following Python libraries installed:
@@ -26,6 +30,3 @@ You can install these dependencies using the following command:
 ```bash
 pip install pandas numpy matplotlib seaborn ydata_profiling scipy statsmodels
 
-## Source
-
-The dataset can be found on kaggle using the following link: https://www.kaggle.com/datasets/thegurusteam/spanish-high-speed-rail-system-ticket-pricing/data
